@@ -9,8 +9,8 @@ Mars OS Kurulum Rehberi
 ​🚀 Kolay Kurulum Adımları
 ​Linux'a yeni başlıyorsanız bile aşağıdaki adımları sırasıyla takip ederek kolayca kurabilirsiniz:
 ​Adım 1: Duvar Kağıdı Klasörünü Yerine Taşıyın
-​İndirdiğiniz wallpapers klasörünü fare ile tutun ve bilgisayarınızdaki Ev (Home) klasörünün içine sürükleyip bırakın.
-(Klasörün tam konumu /home/wallpapers olmalıdır ve içinde mars1.png adında bir duvar kağıdı bulunmalıdır).
+​İndirdiğiniz wallpapers klasörünü fare ile sağ tıklayın ve çıkar... düğmesine tıklayın tar.gz arşivi açıldığında içindeki wallpapers klasörünü fare ile bilgisayarınızdaki Ev (Home) klasörünün içine sürükleyip bırakın.
+(Klasörün tam konumu /home/wallpapers olmalıdır. ).
 ​Adım 2: Terminali Açın
 ​MarsOS_installer.sh dosyasının bulunduğu klasörün içindeyken boş bir yere sağ tıklayıp "Burada Terminal Aç" (Open Terminal Here) seçeneğini seçin.
 ​Adım 3: Kurulumu Başlatın
