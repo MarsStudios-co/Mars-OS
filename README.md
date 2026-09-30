@@ -24,4 +24,6 @@ Mars OS Kurulum Rehberi
 
 Bitti!
 ​Kurulum tamamlandığında bilgisayarınız otomatik olarak yeniden başlayacak ve sizi Mars OS karşılayacaktır.
+MarsStudios©2026
+
 
