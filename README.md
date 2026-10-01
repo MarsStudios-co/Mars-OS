@@ -11,8 +11,7 @@ Mars OS Kurulum Rehberi; yeni kurulmuş (temiz) bir Ubuntu üzerine kurulan, KDE
 # ​Adım 2: Terminali Açın ​MarsOS_installer.sh dosyasının bulunduğu klasörün içindeyken boş bir yere sağ tıklayıp "Burada Terminal Aç" (Open Terminal Here) seçeneğini seçin.
 # ​Adım 3: Kurulumu Başlatın Açılan siyah ekrana (terminale) sırasıyla şu iki komutu yazıp Enter tuşuna basın:
 # 1. dosyaya çalışma izni verin : chmod +x MarsOS_installer.sh
-# 2. kurulumu başlatın:
- sudo ./MarsOS_installer.sh
+# 2. kurulumu başlatın: sudo ./MarsOS_installer.sh
 
 
 
