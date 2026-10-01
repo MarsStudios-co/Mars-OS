@@ -1,6 +1,5 @@
 # Mars-OS
-Mars OS Kurulum Rehberi
-​Mars OS; yeni kurulmuş (temiz) bir Ubuntu üzerine kurulan, KDE Plasma masaüstü ortamına sahip ve tamamen özelleştirilmiş bir işletim sistemidir.
+Mars OS Kurulum Rehberi; yeni kurulmuş (temiz) bir Ubuntu üzerine kurulan, KDE Plasma masaüstü ortamına sahip ve tamamen özelleştirilmiş bir işletim sistemidir.
 ​⚠️ Önemli Not: Bu kurulum kesinlikle temiz / yeni kurulmuş bir Ubuntu işletim sistemi üzerinde yapılmalıdır. Mevcut ve kullanılan bir sistem üzerine kurulursa sistem ayarları çakışabilir.
 ​📥 Kurulum Dosyalarını İndirme
 ​Öncelikle bu sayfanın Releases (Sürümler) bölümünden şu iki dosyayı bilgisayarınıza indirin:
