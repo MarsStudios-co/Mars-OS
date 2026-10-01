@@ -22,6 +22,6 @@ sudo ./MarsOS_installer.sh
 
 # Bitti!
 ​Kurulum tamamlandığında bilgisayarınız otomatik olarak yeniden başlayacak ve sizi Mars OS karşılayacaktır.
-MarsStudios©2026
+# MarsStudios©2026
 
 
